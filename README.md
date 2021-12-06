@@ -1,3 +1,19 @@
+###By group 3: 
+- Group member 1
+    - Name: Xuanwei Zhu
+    - Email: xuanwei.zhu@drexel.edu
+- Group member 2
+    - Name: Vidya Chenji 
+    - Email: vidya.chenji@drexel.edu
+- Group member 3
+    - Name:  Nick Babcock
+    - Email: nb987@drexel.edu
+- Group member 4
+    - Name: Kunal Chhabria
+    - Email: kc3575@drexel.edu 
+
+
+
 Web scraping with Indeed and Craigslist
 
 
