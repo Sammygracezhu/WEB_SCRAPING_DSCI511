@@ -1,3 +1,6 @@
+Web scraping with Indeed and Craigslist
+
+
 1. Project Background
 There are huge amount of data online, but what data we need and how to accquire them are very challanging. In this project, we use web scraping skills to retrieve and processing data from Indeed and Craigslist. We choose Indeed because it is a very popular for job search. The craigslist web, on the other hand, has many locations around the world and contains data related to our life closely.¶
 2. We use python3, requests and beautifulsoup to do web scraping. After that, we store data locally using MySql 8.0.
